@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/website-page/static/css/main.11853ae7.css",
-    "main.js": "/website-page/static/js/main.f96e18ca.js",
+    "main.js": "/website-page/static/js/main.be7e56f0.js",
     "static/js/453.5b90132b.chunk.js": "/website-page/static/js/453.5b90132b.chunk.js",
     "static/media/college.jpg": "/website-page/static/media/college.91811672bc002500d829.jpg",
     "static/media/art-exhibition.jpg": "/website-page/static/media/art-exhibition.d0794cacc1bbaaa17d30.jpg",
@@ -10,11 +10,11 @@
     "static/media/tech-conference.jpg": "/website-page/static/media/tech-conference.722276251a06bc81273b.jpg",
     "index.html": "/website-page/index.html",
     "main.11853ae7.css.map": "/website-page/static/css/main.11853ae7.css.map",
-    "main.f96e18ca.js.map": "/website-page/static/js/main.f96e18ca.js.map",
+    "main.be7e56f0.js.map": "/website-page/static/js/main.be7e56f0.js.map",
     "453.5b90132b.chunk.js.map": "/website-page/static/js/453.5b90132b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11853ae7.css",
-    "static/js/main.f96e18ca.js"
+    "static/js/main.be7e56f0.js"
   ]
 }
